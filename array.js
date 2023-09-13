@@ -1,6 +1,6 @@
 const myArr = ["Peet", 23];
 
-console.log("Myname:", myArr[0]);
+console.log("My name:", myArr[0]);
 console.log("My age:", myArr[1]);
 
 // console.log(myArr[10])

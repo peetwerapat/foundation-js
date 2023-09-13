@@ -1,8 +1,8 @@
-const myFavFoods = ["Sushi", "Noodle", "Shabu", "Rice"];
+const myFavFoods = ["Sushi", "Noodle", "Salmon", "Rice"];
 
-console.log(myFavFoods.indexOf("Shabu"));
+console.log(myFavFoods.indexOf("Salmon"));
 
 const addFoods = myFavFoods.concat("Apple", "Pie", "Ice-cream");
 console.log(addFoods);
 
-console.log(myFavFoods.includes("Shabu"));
+console.log(myFavFoods.includes("Salmon"));
