@@ -33,7 +33,7 @@
 // * Add Parameter Recommend
 // const friends = (manYWII) => {
 //   console.log("Few");
-//   manYWII("Sadao"); //Sadao = parameter in manYWII(callback)
+//   manYWII("Sadao"); //Sadao = parameter in manYWII = callback
 // };
 
 // friends((city) => {
