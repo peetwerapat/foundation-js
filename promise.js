@@ -1,6 +1,6 @@
 let data = new Promise((resolve, reject) => {
   setTimeout(() => {
-    if (true) {
+    if (false) {
       // true or false
       resolve("Found a data");
     } else {
